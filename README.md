@@ -2,7 +2,7 @@
 
 An automated Telegram study quiz bot built using **n8n**, **Groq API**, and **Arena.ai** frameworks. Designed to process study materials and generate interactive multiple-choice quizzes automatically.
 
-👉 **[Try Study Quiz Bot on Telegram](https://t.me/notes_quiz_bot_)**
+👉 **[Try Study Quiz Bot on Telegram](https://t.me/notes_quiz_bot)**
 
 ## 🚀 Tech Stack & Architecture
 * **Automation Platform**: n8n
